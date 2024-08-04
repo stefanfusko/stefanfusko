@@ -38,4 +38,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_pagespeed: yes
-          plugin_pagespeed_url: fusko.xyz
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_url: https://fusko.xyz
